@@ -1,0 +1,15 @@
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/bin/Debug/net10.0/GNET71-OOP04
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/bin/Debug/net10.0/GNET71-OOP04.deps.json
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/bin/Debug/net10.0/GNET71-OOP04.runtimeconfig.json
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/bin/Debug/net10.0/GNET71-OOP04.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/bin/Debug/net10.0/GNET71-OOP04.pdb
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.AssemblyInfoInputs.cache
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.AssemblyInfo.cs
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.csproj.CoreCompileInputs.cache
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.sourcelink.json
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/refint/GNET71-OOP04.dll
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.pdb
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/GNET71-OOP04.genruntimeconfig.cache
+/Users/ahmedsaied/Desktop/Dev/dot-net/assignments/GNET71-OOP04/obj/Debug/net10.0/ref/GNET71-OOP04.dll
